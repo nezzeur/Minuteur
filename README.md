@@ -27,4 +27,7 @@ Ce projet permet de démarrer, arrêter et réinitialiser un minuteur facilement
 ```bash
 git clone https://github.com/nezzeur/Minuteur.git
 
+```
+---
+ 
 ![Minuteur](/assets/minuteur.png "Image Minuteur")
